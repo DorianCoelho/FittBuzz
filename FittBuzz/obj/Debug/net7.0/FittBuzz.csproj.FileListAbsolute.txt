@@ -1,0 +1,14 @@
+/Users/admin/PersonalProjects/pruebas tecnicas/FittBuzz/FittBuzz/FittBuzz/bin/Debug/net7.0/FittBuzz
+/Users/admin/PersonalProjects/pruebas tecnicas/FittBuzz/FittBuzz/FittBuzz/bin/Debug/net7.0/FittBuzz.deps.json
+/Users/admin/PersonalProjects/pruebas tecnicas/FittBuzz/FittBuzz/FittBuzz/bin/Debug/net7.0/FittBuzz.runtimeconfig.json
+/Users/admin/PersonalProjects/pruebas tecnicas/FittBuzz/FittBuzz/FittBuzz/bin/Debug/net7.0/FittBuzz.dll
+/Users/admin/PersonalProjects/pruebas tecnicas/FittBuzz/FittBuzz/FittBuzz/bin/Debug/net7.0/FittBuzz.pdb
+/Users/admin/PersonalProjects/pruebas tecnicas/FittBuzz/FittBuzz/FittBuzz/obj/Debug/net7.0/FittBuzz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/PersonalProjects/pruebas tecnicas/FittBuzz/FittBuzz/FittBuzz/obj/Debug/net7.0/FittBuzz.AssemblyInfoInputs.cache
+/Users/admin/PersonalProjects/pruebas tecnicas/FittBuzz/FittBuzz/FittBuzz/obj/Debug/net7.0/FittBuzz.AssemblyInfo.cs
+/Users/admin/PersonalProjects/pruebas tecnicas/FittBuzz/FittBuzz/FittBuzz/obj/Debug/net7.0/FittBuzz.csproj.CoreCompileInputs.cache
+/Users/admin/PersonalProjects/pruebas tecnicas/FittBuzz/FittBuzz/FittBuzz/obj/Debug/net7.0/FittBuzz.dll
+/Users/admin/PersonalProjects/pruebas tecnicas/FittBuzz/FittBuzz/FittBuzz/obj/Debug/net7.0/refint/FittBuzz.dll
+/Users/admin/PersonalProjects/pruebas tecnicas/FittBuzz/FittBuzz/FittBuzz/obj/Debug/net7.0/FittBuzz.pdb
+/Users/admin/PersonalProjects/pruebas tecnicas/FittBuzz/FittBuzz/FittBuzz/obj/Debug/net7.0/FittBuzz.genruntimeconfig.cache
+/Users/admin/PersonalProjects/pruebas tecnicas/FittBuzz/FittBuzz/FittBuzz/obj/Debug/net7.0/ref/FittBuzz.dll
